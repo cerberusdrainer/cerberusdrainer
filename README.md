@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cerberusdrainer/cerberusdrainer** is a ✨ CERBERUS ULTIMATE DRAINER V2 ✨ repository is a New Product.
 
